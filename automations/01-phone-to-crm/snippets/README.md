@@ -8,5 +8,5 @@ Node.js snippets (see `/snippets`):
 4. `04-parse-filename-timestamp.js` — converts filenames into a timestamp for logging/sorting (example utility).
 
 > Note: The “Chat” and “Create Transcription” steps are configured using Pipedream’s OpenAI actions.  
-> The prompt template and model choice are documented, but raw tokens/URLs are not included in this repo.
+> The model choice are documented, but raw tokens/URLs are not included in this repo.
 
