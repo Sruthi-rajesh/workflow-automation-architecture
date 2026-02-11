@@ -1,4 +1,4 @@
-# Deal Stage → Notifications (In-App + Email)
+# Deal Stage → Notifications (In-App Notifications and Email)
 
 ## Goal
 Notify the right internal owner when a deal moves stages, so follow-ups happen immediately and nothing gets missed.
