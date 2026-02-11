@@ -26,5 +26,5 @@ Date-driven stage updates reduce manual admin, improve pipeline accuracy, and en
 - Pipeline stage updated automatically at the scheduled date/time
 
 ## Full documentation
-See: `Campaign-Live-Date-Stage-Automation-Workflow Guide.pdf`
+See: `Automatic-stage-progression-Workflow Guide.pdf`
 
