@@ -30,5 +30,5 @@ The workflow branches by stage (examples):
 - A consistent audit trail in workflow history
 
 ## Full documentation
-See: `Deal-Stage-Notifications-Documentation.pdf`
+Check: `Deal-Stage-Notifications-Documentation.pdf`
 
